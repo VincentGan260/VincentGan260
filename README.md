@@ -6,8 +6,7 @@
 
 <p align="center">
   <a href="mailto:vincent260@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.hhu.edu.cn"><img src="assets/images/hhu_logo.svg" style="width: 1em;"/></a>
-  <img src="assets/images/hhu_logo.svg" style="width: 1em;"> [Hohai University](https://www.hhu.edu.cn/).
+  <a href="https://www.hhu.edu.cn"><img src="https://img.shields.io/badge/University-2E8BC0?style=flat&logo=google-scholar&logoColor=white" /></a>
 </p>
 ---
 
@@ -17,8 +16,8 @@
 <tr>
 <td width="50%">
 
-### 🇬🇧 English
-- 🎓 **B.Sc. Computer Science** @ *Hohai University* (Class of 2024)
+### English
+- 🎓 **B.Sc. Computer Science** @ *Hohai University* (2024)
 - 🌱 Currently diving deep into **Data Structures**
 - 🧪 Building side projects to apply what I learn in class
 - 📚 Fun fact: I enjoy taking notes in MarkDown and making them look beautiful
@@ -26,8 +25,8 @@
 </td>
 <td width="50%">
 
-### 🇨🇳 中文
-- 🎓 河海大学 **计算机科学与技术** 专业在读（2024届）
+### 中文
+- 🎓 河海大学 **计算机科学与技术** 专业在读（2024级）
 - 🌱 正在深入学习 **数据结构**
 - 🧪 喜欢用课余时间把课堂知识变成实际项目
 - 📚 冷知识：我喜欢用 MarkDown 记笔记，追求排版之美
