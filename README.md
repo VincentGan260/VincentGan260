@@ -5,6 +5,8 @@
 <h3 align="center">🎓 A CS student exploring the world of code</h3>
 
 <p align="center">
+   <a href="https://t.me/Vincent_Gan"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
+  <a href="https://wpa.qq.com/msgrd?v=3&uin=2608377369&site=qq&menu=yes"><img src="https://img.shields.io/badge/QQ-1EBAFC?style=flat&logo=tencentqq&logoColor=white" /></a>
   <a href="mailto:vincent260@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.hhu.edu.cn"><img src="https://img.shields.io/badge/University-2E8BC0?style=flat&logo=google-scholar&logoColor=white" /></a>
 </p>
@@ -43,8 +45,8 @@
   <i>Always happy to chat with fellow students and developers. Let's learn and build together! 🚀</i><br/><br/>
   <a href="mailto:vincent260@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://x.com/Vincent_Gan260"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  <a href="https://t.me/Vincent_Gan"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
-  <a href="https://wpa.qq.com/msgrd?v=3&uin=2608377369&site=qq&menu=yes"><img src="https://img.shields.io/badge/QQ-1EBAFC?style=flat&logo=tencentqq&logoColor=white" /></a>
+  <a href="https://t.me/Vincent_Gan"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://wpa.qq.com/msgrd?v=3&uin=2608377369&site=qq&menu=yes"><img src="https://img.shields.io/badge/QQ-1EBAFC?style=for-the-badge&logo=tencentqq&logoColor=white" /></a>
   </a>
 </p>
 
