@@ -5,11 +5,9 @@
 <h3 align="center">🎓 A CS student exploring the world of code</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vincentgan260&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="mailto:vincent260@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.hhu.edu.cn"><img src="https://img.shields.io/badge/University-2E8BC0?style=flat&logo=google-scholar&logoColor=white" /></a>
+  <a href="https://www.hhu.edu.cn"><img src="assets/images/hhu_logo.svg" style="width: 1em;"/></a>
 </p>
-
 ---
 
 ## 👨‍🎓 About Me · 关于我
