@@ -7,6 +7,7 @@
 <p align="center">
   <a href="mailto:vincent260@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.hhu.edu.cn"><img src="assets/images/hhu_logo.svg" style="width: 1em;"/></a>
+  <img src="assets/images/hhu_logo.svg" style="width: 1em;"> [Hohai University](https://www.hhu.edu.cn/).
 </p>
 ---
 
