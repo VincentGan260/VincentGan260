@@ -18,7 +18,7 @@
 
 ### English
 - 🎓 **B.Sc. Computer Science** @ *Hohai University* (2024)
-- 🌱 Currently diving deep into **Data Structures**
+- 🌱 Currently diving deep into ** Operating System**
 - 🧪 Building side projects to apply what I learn in class
 - 📚 Fun fact: I enjoy taking notes in MarkDown and making them look beautiful
 
@@ -27,7 +27,7 @@
 
 ### 中文
 - 🎓 河海大学 **计算机科学与技术** 专业在读（2024级）
-- 🌱 正在深入学习 **数据结构**
+- 🌱 正在深入学习 **操作系统**
 - 🧪 喜欢用课余时间把课堂知识变成实际项目
 - 📚 冷知识：我喜欢用 MarkDown 记笔记，追求排版之美
 
